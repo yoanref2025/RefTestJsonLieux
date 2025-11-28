@@ -1,0 +1,130 @@
+{
+  "lieux": [
+    {
+      "uid": "fb7d493d-f97d-4e3d-8eca-86c6676335a5",
+      "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+	  "code":"FDLS",
+      "nom": "Foire de la Saucisse"
+    },    
+	{
+      "uid": "33bed253-213c-4f8e-9318-1d09c5eaffe3",
+      "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+	  "code":"NDE",
+      "nom": "Nocturnes d'été"
+    },
+    {
+      "uid": "22adf769-670b-4196-b411-e9618983a088",
+      "uid_r": "544d7401-93d0-432a-8147-a0b0254562ae",
+	  "code":"MDI",
+      "nom": "Marché du Dimanche"
+    },
+    {
+      "uid": "e2675cbd-f7f4-4130-bdbf-45be3e95abe6",
+      "uid_r": "544d7401-93d0-432a-8147-a0b0254562ae",
+	  "code":"MDL",
+      "nom": "Marché du Lundi"
+    },
+    {
+      "uid": "5a70aac5-9f62-463c-bc4f-6c87a829dafa",
+      "uid_r": "544d7401-93d0-432a-8147-a0b0254562ae",
+	  "code":"FDLB",
+      "nom": "Foire de la BD"
+    },
+    {
+     "uid": "4ad839c8-3176-47dd-8750-7d23a917984e",
+      "uid_r": "8c087a8e-5f4d-4ae9-9350-89930ac2656f",
+	  "code":"FAF",
+      "nom": "Foire aux Fruits"
+    },
+    {
+     "uid": "2d878122-076e-4263-a6b2-0800bcaf62ac",
+      "uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
+	  "code":"NDS",
+      "nom": "Nocture du Samedi"
+    },
+    {
+    "uid": "bc657231-9599-442e-9459-486efca174a0",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "code":"MDL",
+      "nom": "Marché du Lundi"
+    },
+    {
+    "uid": "bf99d611-c2bc-466f-86d4-d775c9eb4670",
+      "uid_r": "960615d7-67dd-4fa5-996e-9b134259de72",
+	  "code":"SC",
+      "nom": "Stockage Centre"
+    },
+	{
+	  "uid": "3d631d4d-5d94-42e6-a960-c608068b2549",
+      "uid_r": "960615d7-67dd-4fa5-996e-9b134259de72",
+	  "code":"SP",
+      "nom": "Stockage Périphérie"
+    },
+	{
+	  "uid": "f0a5afbe-c586-4096-bbb7-49cc32b2c9cf",
+	  "uid_r": "74888f93-35ec-4d62-b4cd-922c53b4bf0c",
+	  "code": "MCE",
+	  "nom": "Musée centre"
+	},
+	{
+	  "uid": "aaf8b9d4-dc0b-45d5-b505-9c07fa1e3a81",
+	  "uid_r": "5e0994d9-705c-47d4-a8be-675107b0af6f",
+	  "code": "PCE",
+	  "nom": "Piscine centre"
+	},
+	{
+	  "uid": "779cb64f-9115-42ea-b0e5-167ea132ba6d",
+	  "uid_r": "43f0ff08-54f7-4b43-9d4e-81d6fcaed7d8",
+	  "code": "PARK",
+	  "nom": "Parkings"
+	},
+	{
+	  "uid": "92995d48-12a5-45c5-869a-f4fa146ffa10",
+	  "uid_r": "e5061ada-c158-4ffa-b3ee-00538b410bf6",
+	  "code": "CAMP",
+	  "nom": "Campings"
+	},
+	{
+	  "uid": "bc183435-588d-470e-98e8-cce5ab912e6c",
+	  "uid_r": "6a0dcc99-25a9-4419-b49c-b49f9f22e5b4",
+	  "code": "ECE",
+	  "nom": "Événements centre"
+	},
+	{
+	  "uid": "9a025a8f-35f7-4530-99ea-7742b254fb6a",
+	  "uid_r": "214da268-01df-485c-86e5-c583d1c985f5",
+	  "code": "MAR",
+	  "nom": "Marchés"
+	},
+	{
+	  "uid": "fcedfe94-8527-4d4f-91d9-b0127e694d85",
+	  "uid_r": "7b2f9b95-3447-4e2e-8b81-f6488275df65",
+	  "code": "BRO",
+	  "nom": "Brocante"
+	},
+	{
+	  "uid": "b24106c2-6514-42bf-886a-9b1f527c052c",
+	  "uid_r": "087f407f-5b4e-4903-a0a1-f82617e51466",
+	  "code": "MVI",
+	  "nom": "Musée village"
+	},
+	{
+	  "uid": "2aab3f0f-9bda-47fa-b4d3-f09d94f939e8",
+	  "uid_r": "b6a82983-cc6d-4d7a-b014-3ff6f8f733d3",
+	  "code": "PVI",
+	  "nom": "Piscine village"
+	},
+	{
+	  "uid": "71121da1-9daf-4cc6-ada3-1f38695ac48c",
+	  "uid_r": "f13b7f49-885e-43ab-b22d-823eeeac7bfd",
+	  "code": "TER",
+	  "nom": "Terrasse"
+	},
+	{
+	  "uid": "50e6abda-901d-48a1-8167-239c1a27652a",
+	  "uid_r": "4f75b01b-5a4b-4c7b-b49c-157518506975",
+	  "code": "EVI",
+	  "nom": "Événements village"
+	}
+  ]
+}
