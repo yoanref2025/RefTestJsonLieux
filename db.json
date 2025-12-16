@@ -125,6 +125,72 @@
 	  "uid_r": "4f75b01b-5a4b-4c7b-b49c-157518506975",
 	  "code": "EVI",
 	  "nom": "Événements village"
+	},
+	{
+	  "uid": "c417ae1a-c190-433f-93bc-95ef41b6e301",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "code": "CIR",
+	  "nom": "Cirques"
+	},
+	{
+	  "uid": "da563b5e-51ea-40bb-9f82-f741a6d11257",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "code": "NOEL",
+	  "nom": "Marché de Noël"
+	},
+	{
+	  "uid": "e1b2956a-19ea-43c0-9a7d-fd5574aaa11f",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "code": "BRO",
+	  "nom": "Brocantes"
+	},
+	{
+	  "uid": "a978ea30-a25f-47a5-94cc-70553ce933c8",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "code": "FLU",
+	  "nom": "Foire du Lundi"
+	},
+	{
+	  "uid": "98b99b83-afad-4154-9c83-030fb76653ef",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "code": "FSA",
+	  "nom": "Foire du Samedi"
+	},
+	{
+	  "uid": "7dfbcb86-efa9-41f1-8096-c719cc36b01f",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "code": "MLU",
+	  "nom": "Marché du Lundi"
+	},
+	{
+	  "uid": "4bf30be9-46eb-40a2-b432-52ee64d0e75e",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "code": "MME",
+	  "nom": "Marché du Mercredi"
+	},
+	{
+	  "uid": "db25aa21-9784-4995-9861-cdbb7ac33922",
+	  "uid_r": "7af538c4-c1d9-4e79-a932-25398d6818ef",
+	  "code": "FDI",
+	  "nom": "Foire du Dimanche"
+	},
+	{
+	  "uid": "c20f856b-2769-4193-85ad-a288f97b9305",
+	  "uid_r": "7af538c4-c1d9-4e79-a932-25398d6818ef",
+	  "code": "NOEL",
+	  "nom": "Marché de Noël"
+	},
+	{
+	  "uid": "85d5a2ee-f8bc-4687-ab11-2de13a96a0ce",
+	  "uid_r": "b03c3b96-ee9b-456c-9a01-8ba113a459ce",
+	  "code": "MVE",
+	  "nom": "Marché du Vendredi"
+	},
+	{
+	  "uid": "e5c51e2c-1d03-49a7-9239-1bdbc872f786",
+	  "uid_r": "b03c3b96-ee9b-456c-9a01-8ba113a459ce",
+	  "code": "MSA",
+	  "nom": "Marché du Samedi"
 	}
   ]
 }
