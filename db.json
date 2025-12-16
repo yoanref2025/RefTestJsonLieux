@@ -140,19 +140,19 @@
 	},
 	{
 	  "uid": "a978ea30-a25f-47a5-94cc-70553ce933c8",
-	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "uid_r": "b3b6ea74-28ae-4b91-a9ef-74a25e433f03",
 	  "code": "FLU",
 	  "nom": "Foire du Lundi"
 	},
 	{
 	  "uid": "7dfbcb86-efa9-41f1-8096-c719cc36b01f",
-	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "uid_r": "b3b6ea74-28ae-4b91-a9ef-74a25e433f03",
 	  "code": "MLU",
 	  "nom": "Marché du Lundi"
 	},
 	{
 	  "uid": "4bf30be9-46eb-40a2-b432-52ee64d0e75e",
-	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "uid_r": "b3b6ea74-28ae-4b91-a9ef-74a25e433f03",
 	  "code": "MME",
 	  "nom": "Marché du Mercredi"
 	},
